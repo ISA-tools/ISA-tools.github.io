@@ -45,7 +45,7 @@
   method="post">
   <div class="hd">
       <input name="text" type="hidden" value="ISAcreator 1.7.11 now available">
-  <input name="url" type="hidden" value="http://isa-tools.org/2017/12/isacreator-1-7-11-now-available/">
+  <input name="url" type="hidden" value="2017/12/isacreator-1-7-11-now-available/">
 
       <input type="hidden" name="repost_after_login" value="/intent/tweet">
     <input type="hidden" name="authenticity_token" value="528f503607bcb13c9451dc934d8f470425972155">

@@ -45,7 +45,7 @@
   method="post">
   <div class="hd">
       <input name="text" type="hidden" value="Towards a new Sequence Logo Visualization">
-  <input name="url" type="hidden" value="http://isa-tools.org/2014/06/towards-a-new-sequence-logo-visualization/">
+  <input name="url" type="hidden" value="2014/06/towards-a-new-sequence-logo-visualization/">
 
       <input type="hidden" name="repost_after_login" value="/intent/tweet">
     <input type="hidden" name="authenticity_token" value="528f503607bcb13c9451dc934d8f470425972155">

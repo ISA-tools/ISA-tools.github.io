@@ -44,7 +44,7 @@
   id="update-form"
   method="post">
   <div class="hd">
-      <input name="url" type="hidden" value="http://isa-tools.org/2012/07/introducing-ontomaton-ontology-search-tagging-for-google-spreadsheets/">
+      <input name="url" type="hidden" value="2012/07/introducing-ontomaton-ontology-search-tagging-for-google-spreadsheets/">
   <input name="text" type="hidden" value="Introducing OntoMaton  - Ontology Search &amp; Tagging for Google Spreadsheets">
 
       <input type="hidden" name="repost_after_login" value="/intent/tweet">
